@@ -12,4 +12,4 @@ You are also able to see a 5-Day Forecast of the city
 ![Screen Shot 2022-01-09 at 9 03 05 PM](https://user-images.githubusercontent.com/94037098/148713565-1ccd3e0a-f964-4807-8a58-d12f25f5d57b.png)
 
 
-Deployed Link: 
+Deployed Link: https://kanzajamil23.github.io/Weather-Dashboard/
